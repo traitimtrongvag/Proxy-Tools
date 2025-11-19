@@ -47,16 +47,4 @@ Conclusion
 This proxy tool makes it easy to collect and filter proxies, protecting your privacy and security while browsing the web.
 
 
----
 
-Contact:
-
-Email
-
-Facebook
-
-
-
----
-
-If you want, I can also make a more concise, professional English version that reads like official documentation. Do you want me to do that?
