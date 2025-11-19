@@ -1,1 +1,128 @@
-exec(__import__('marshal').loads(__import__('base64').a85decode(b'irB&Zzz!!`K(z!:t^B!!&>cA,p-@C]IW=A,p-AC]SAS=on^)A,p-@C]diCA,p-@C]moEA,p-@C^!uGA,p-AC]SAS=on^)A,p-BC^+_]=pJmM=pP-/A,p-CC^"Y^=pY30A-IVd=pb<2AHJn4z!!$11A-R\\e=ptH4AIPU>z!!%\'Y!WZd@A-].9z!!!$"!WZd6C)d3RzzzzA-f4:z!!!$"A-mnh=q:Z7AIkgAz!!!$"!WZd=A-uiTA.5L@z!!!$"B)l*HB)lHOU&eF0!WZd@!WZd;C*WcZzzzzAHurszzzz!!$O>Wr`8$zWrW2#z!<?[C6i^M+!!$1:!WZd3C+92`zzzzAJD0Gz!!$1<AJT#5zzzz!!$agzzzz!!$O?WrW2#z6i^LN!!$1?A.W;iFoZRaN!Nu4C,#\\gzzzzA.W8`X:hQ8z!!$O1A.]^[>QOm*=rLQ`AIrT:zzzz!!$RKRfHt1AK.*=SHGnnz!!!$"N&Uq?N+rIqA.r,e!WZdQA/&PhWr`8$z2#pf%AIq60>o!D?=s.AuC-qt$zzzzAKYLoH2mpFWrW2#z!<A&q"98`.A-$3AA-&_4z!!!$"Gl],i0`Z7qG6.dF=TAI&!<@BGGQV(KG6\'-.kl:\\`!)=sDg\'9u`DKB`4ALR]7#"*<FDfTpQ#X`NHDfT9.ALRZ6"`nKkAT2,]zz!!!!\'!!!!$!!!#jJ,fQLQN2C56i^LG!!%ELF8u:@z!!$a9zzzz!!%BKHi[aYX9,F)z!!!$"F9MXEz!!$a<zzzz!!%BJWrW2#z!<A\'5"9<NGzzWrN,"z!<@BF.0E?!!%A!\'"`nd2Ch;<&ASu$-"PO)jDf0W7Ch;<(E,oZ1FP6k>Bl.F%"onW\'.0S?-FCf]=g\'(u)Ci=@J#\\e0uATDs&Ct]#%BOPq&"98E%+<VdLqA;\\9Ch5tBDG=P1Ddb:hATUahDg6O[E-^.F=)r"sARA8SBl8$5\'*&"4#ljr*F"mXp!.Y((&/9p\'g^"FO%>bOUA=t6I;MYe3#Vb$>%$(aP$BR6t#TW=;!"ft<"onf6Kh(_7!!!"/zzz"98E%!rr<$o4@t&!1*Zl!-A5Az!!!"6!WW3#zzz!!!"0!Fu85"02J\'z!.=im"=!ngzz!,;W:zzzz!$hPb!s&C)!-n`l!-eTK!-\\Gm##9I\\BQS?8F#ks-GB\\6`B5_^$Ch55/Df%/l"TSN&.08--FD5T\'Dfp/$7O\\Gn#]aKrF_,W9F4p_/ATZW:6Z6j[ARfgrDf/!aEc5tI!SRg"ATMg/DKBB1!<<*"+EA(p!!(^j@q]F`CL:dnFCfK1ATV9hDf0H(@ruF\'DK6]s!!!N0!!%\'r!!!"L!:U$m"Vof+)j`[L4O>32^bO=P7>M6%%hn`n$PV,",LHlDnc/[o("j*3n,i[p(&Dt[!!!"N(E*:B\'/0Nl!AFUu2#mUV$6*2(4#8U.`/rriMf*2N6?Qo`_gijo+@F&Q+@F&?Bcoc]DBM=*]!l/l7;X/BBZ$el+mB"-!!$L/zz!!!!%!!!!$!!!#j@K6B.QN2+.zzC\'"A8zzzzF8u:@z!!$a:zzzz!!$O1CFB/_EX-+VWrW2#z!<@BFA-8k5z!!!$"GlT8r:>,beFP6h,Cie;6@r,^bE[_+E!cN/6#\'5\'2FCf=C"E%XbAZ5ZM\'EA+5EY8?P!-04_!!%$_!!!!9!!!"?*<6\'>J,n@-#)>d$8X+7^GEI*B,a*Y5A^po?W(5A@1ia91!!%-["onWG+<VdL+<VdL+QB&Eih1h]TRc$pJE!5Pih1h]TRc$pJ05sW+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<V"6+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL/1iG++<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<W3e/M8.Q+<VdX/M/P*+<VdL+<VdL+<VdL+<VdX/M/S&HlsOS+<VdL+<VdL+=o)r/M&"e+<VdL+<VdL+<VdL+=o)r/gl#h$6UH=+<W9a+C$$3+<VdL+<VdL/1iG)3ZoP++FG:S+<VdL+<VdL+=A9S/ghcH+<VdL+<VdL+<W3e/M&q*+?CWm+:95E+<W`g+<VdS/g)8Z+<W4C/M/S&@!j(>-QkGm+<VdL+<VdL+>4i[4!5Xg+=Aca+<VdL/7:%]/gk%S+<W$S3Znbj+<W]f+<VdL+<Xo3+<VeS+<Vdf+<W]f+FG;Z+<VdL+<VdL+?CVf3ZoOf+<VdL>Tb.3+FG:S+?CVf3ZoPm+FG:=3ZoPm+<Vd[>Tb.3>Tb.33ZoOfHlsOS>TeD:3ZoOf+<VdL+<W]f+FG:S+>6tB+<Xo3+<W]f+<Z%S+<Xo3HltHm$@Es=3ZoOm+?M1u+<W]f+FG:S+?CVm+<W$n+FG:S+<VdL+<VeS+<W]f+=A9n/g)8Z3ZoPm+<Vdf+=A9S-T`Gu+:<K=+FG:S4"h^!>Tb.3>TbC:+<W$S4"_Wu+<W`g+<VdL+<VdLHlsPZ+<Wa!+<Xo3+<Xo3-QjNS-QkK\'+<VdL4!4kX+<W]f+FG;:+<Xo3/12Qf+<VeS+FG;:+<VeS+<VdL+<VdL+=A9S3ZoPm+C$$3>TbRF+FG:S+FG;Z+C$$3+FG:=HlsPZ+<W$S+=A`m-QjNS-QjNS3Zrem+?L\\u-QjNS+<VdL+<Z%S+FG:S-QjNZ/M/=m+<W$S+<W]fHlsOn+>,#a$@Es=3ZoP++<VdL+<VdL+FG:S+FG:Z?nErX+<VdL+<VdL+<VeS+<W]f+?CVf+<VdL+<VeS+<VeS+=CPK/LMY`+:<K=+FG:_-QjNS+<VdL+<W$S+<W]fHlsOS+<VdL+<VdL+<VdLHlsPZ+=nl_+<VdL+<VdL-QjNS3Zrem+<VdL+<V#!/M/=t+<VdL+<VdL+<Vdg+<VeS/ghba+<VdL+<VdL+<VdL+CHcQ-RU#Z+<VdL+<VdL+?L\\g+FGdh+<VdL+<Vd6+<VdL+<VdL+<VdL+<VdL-S6o%-QjNS+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<W$`/M/=m+<VdL+<VdL$6UH6+QAZNig#VbQ&t!jOQ)Oeig#VbQ&t!jOQ)Oeig#VbQ&t!jOQ)Oeig#VbQ&t!jOQ)Oeig#VbQ&t!jOQ)Oeig#VbQ&t!jOQ)Oeig#VbQ&t!jOQ)Oeig#VbQ&t!jOQ)Oeig#VbQ&t!jOQ)Oeig#VbQ&t!jOQ)Oeig#VbQ&t!jOQ)Oeig#VbQ&t!jOQ)Oeig#VbQ&t!jOQ)Oeig#VbQ&t!jQO4iX+<][/OWYbh+<XL$Dg6OM+<VeS+@KdaASc:(+C]UW+@0m2DBL&E+<VdL+<VdL+<VdL+<VdL+<VfdQ&uCr+<VfdQ($]tOQ)Oeig#VbQ&t!jOQ)Oeig#VbQ&t!jOQ)Oeig#VbQ&t!jOQ)Oeig#VbQ&t!jOQ)Oeig#VbQ&t!jOQ)Oeig#VbQ&t!jOQ)Oeig#VbQ&t!jOQ)Oeig#VbQ&t!jOQ)Oeig#VbQ&t!jOQ)Oeig#VbQ&t!jOQ)Oeig#VbQ&t!jOQ)Oeig#VbQ&t!jOQ)Oeig#VbQ&t!jOQ)Oeig$&W+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<Vd6+<VdL$JGT&ARoG:bC<\'tI8)pT6$bk2FEDJC3\\N-pE+pqDEc62JF(96!E+LY3Df%-lEb065ATMrVA8-+(CghU.Ec62:ATK2;Ec62JFEqh:4_SqZE-`U>FEDJC3\\N-s@<H*hFY7TQB.m\\4BeO.AFDrjSG]`d/BQS?8F#ks-@;op5DfB9*E,olAH#.29F=qf`H7rrRFDrjSG]`dOBQS?8F#ks-Eaa/EB5)I$F^fK7ATD:!DKKH-F=q\'AD(ek%AQ*PZARnmr:f:(k=Y3<]F*\'\'P@<6O%E\\D*JFDrjSG]\\6KBQS?83\\N.1DfT\\IEbTJGBQS?8/p)>[qClT)FDu:^0/%9bDg6OZF)Yi(ATBD5Df%.9E+ptEEc62:ATKJ8G[YH.Ch55@G]`dQBQS?8F#ks-Eaa/EB5)I$F^fK7ATD:!DKKH-F=q\'AD(fjKDg6OaE+*d.Bl7Q:E,olAGqEiHF*\'\'P@;0U4BQS?8/p)>[H66gBFDu:^0/%9bDg6PKE+*6f/oYiL05,HLE%Z6WFF%5+FEDJC3\\N.,@<X>:Bln$2@Wca\'Eas$*FCf?3/n8g:05>\'?CLLp1E,olAGqEiHF*\'\'P@;0U4Df0B*DIkD=Ec62:ATKMHG]YTXEc62:ATKG:FEDJC/p)>[qHR]UFDu:^0/%?SG:mNBFD,f+F`V,7@rH7,ASuTB@rH3;C1VL&@;.B6Ec62J/So-BF>%K>Bl5SBDJX$)AM%kADg5u-F"_W[F>%TRDg5u-F"M\'IFDrjSG]\\7$BQS?8F#ks-Eaa/EB5)I$F^fK7ATD:!DKKH-F=q\'AD(eV+;K$Gc:e=/1:i^K!GqDa!F*(u605Y-3DD,[FFDrjSG]\\70BQS?8F#ks-Eaa/EB5)I$F^fK7ATD:!DKKH-F=q\'AD(fg>Anbah@;Kn*FEM;.02#_kB2EVeG^1r8@;]^SEc62J05,HLE%bmHFDrjSG]\\72BQS?8F#ks-Eaa/EB5)I$F^fK7ATD:!DKKH-F=q\'AD(fg>Anbah@;Kn*FEM;.02#_kB2EVeG^1r8@;]^SEc62J05,HLE-![GFEDJC/p)>[qFtXFFDu:^0/%?SG:mNBFD,f+F`V,7@rH7,ASuTB@rH3;Ec5l;FCfK.Bk/l8E+Np+Ec62JCh[s405Y-3DD+O[<)?M#;F+A:FEhnJ-ia5IqEnq<FDu:^0/%?SG:mNBFD,f+F`V,7@rH7,ASuTB@rH3;D/F6:0etD$Ec62J/So-BF>%K>F*(u605,HLE%Z6WFS\\C=FEDJC3\\N.,@<X>:Bln$2@Wca\'Eas$*FCf?3/n8g:05YQFGVLs,E,olAGqEiHF*\'\'P@<6O%E\\D*JFDu:RFEhp(7;-dbE-"&n061KF/n\\m?BQ[d,F(KB%Df0Z.DKIL@Df%.+BPD(#GuRZp:i^K!GqD^(F*\'\'P@<6O%E\\D*JFDrjSG]`dOBQS?8F#ks-Eaa/EB5)I$F^fK7ATD:!DKKH-F=q\'AD(eh$BkDI4<)PAGEc62J/PKl"F>%K>F*(u605,HLE-!XRG][sU!!!#q9k\\WjE-"&n061KF/n\\m?BQ[d,F(KB%Df0Z.DKIL@Df%-rEarg$6tKn?DeEm/05trMG\\L`105Y-3DD,sLDg5u-F"_3KFDrjSG]`dWBQS?8F#ks-Eaa/EB5)I$F^fK7ATD:!DKKH-F=q\'AD(e=u@qfgKARo@jB5D]DE,olABk;?=D..-r05trMG\\L`105,HLE-!XRG]\\6iBQS?8F#ks-Anc9sF=q9G04np=ATW0(Eb0?5D_GX0FCAZfDKKQ+ATTSEEc62:ATKJGG][sU!!!#q6YLR`E-"&n061KF/n\\m?BQ[d,F(KB%Df0Z.DKIL@Df%.9Ci+32DfdXOEc62JCh[s405Y-=FCfJGCh[s4/p)>[H6R$EFDu:^0/%6_ASuI-Dg6PDBleAKG^4TgBQS?8/p)>[H<"X#FDu:^0/%?SG:mNBFD,f+F`V,7@rH7,ASuTB@rH3;D/X<1F(&s-05trMG^1lWBleALD..-r05trMG\\L`1?X[hjDL$);F`T3LFEDISFEhnR-YRUDE&oX*Ec5l<C12F7/n8g:05trMG\\L`105trMG\\L`1/p)>[H:)@fFDu:^0/$aQBeF@FDg6PK@rc!sAM.J2D(e+oAT;j(F*\'QUBle60@<lg4Dg5u-F!bjHDg6PLH#R=XBQS?8F*]ZVFEDJC3\\N.1GBYZYEc62J/So-BF=q*BGA_58@:V$"E+ptK0e[0NF?akmE+M1GFEDJJ7VHmcE-"&n061KF/n\\m?BQ[d,F(KB%Df0Z.DKIL@Df%.,BOt+]AS#CS02kY692dE9BleALD..L-ATBG;FEDISFEhnJ-NF,HH:DRiFDu:^0/%?SG:mNBFD,f+F`V,7@rH7,ASuTB@rH3;F(f9"FEqtK05trMG^1lWBleALD..L-ATBGCEc62J/p)>[E[q+i!.%FSFEDJC3\\N.,@<X>:Bln$2@Wca\'Eas$*FCf?3/n8g:04Sg,Ebf6.D(fjKDg6OZCh[s405Y-=FCfJGE,olAGqEiHF*\'!S@<X>GG]\\7*BQS?8F#ks-Eaa/EB5)I$F^fK7ATD:!DKKH-F=q\'AD(fsQDJj_[2)dHIE,olAGqF)IEa`ouE\\D9<F*(u605trMG\\L`1/p)>[H:)@fFDu:^0/%?SG:mNBFD,f+F`V,7@rH7,ASuTB@rH3;DfBcB@rX/@Ec62J/So-BF>%K>F*(u605P?DF=qZ[FE/f1!!%<nBQS?8F#ks-D09Z:BlJ*2G^1o[Eb@%IG][;$ChtbDEc62J/p)>[E\\%1j!.#c$FEDJC3\\N.*Ec62JF)YPtAM.qBD_GdGFDu:RFEhnJ1B7CTH9u:eFDu:^0/%?SG:mNBFD,f+F`V,7@rH7,ASuTB@rH3;@<67!F)*FJEc62JBQS?8F"_B=Bl5S;FEDJC/p)>[H:;LhFDu:^0/%?SG:mNBFD,f+F`V,7@rH7,ASuTB@rH3;68VS-0LS>]<)##bEc62J/So-BF>%K>Bl5Rp<)c[HFEhnR;J:/oE-"&n061KF/n\\m?BQ[d,F(KB%Df0Z.DKIL@Df%.@ASu%!Bkq0jE\\Bn&AS!GiEc62J/Q-/!D_Gs9F*(u605trMG^3Y4BleAKFEhnR5A5.\\E-"&n061KF/n\\m?BQ[d,F(KB%Df0Z.DKIL@Df%-n9M%fL5u:HT02Q\\-G^1rZ@;0U4BQS?8/p)>[E\\.7k!-0[l!!%$h!!!"F4(r_XE-"&n061KF/n\\m?BQ[d,F(KB%Df0Z.DKIL@Df%.K@;0e*Blu(OBlu(G@;0U4Ao_Ho/p)>[E\\IIn!;]?%FEDJC3\\N.,@<X>:Bln$2@Wca\'Eas$*FCf?3/n8g:061T3G\'RV:Ft[fTDg6OZCh[s405Y-3DD,sLDg5u-F"_3KFDrjSG][sZ!!!"F2/%)RE-"&n06_Va/oYiLG^1lWBleAKA8c[0Ci<`m04Ag606T\'\'B4Z0LFEqh:4_SqZE-$=uBQS?8F#ks-Eaa/EB5)I$F^fK7ATD:!DKKH-F=q\'AD(faEDJsT)DK@IMEc62J/So-BF>%K>Bl5SCEc62:ATKM<FEDISFEhnR<G6JrE-"&n061KF/n\\m?BQ[d,F(KB%Df0Z.DKIL@Df%.K@;0e*Blu(&Bl@m)Bl7R)/P\'u*E%On,Dg6PK/PpJ+G\\L`105Y-3DD,UBAS!K9G]\\75BQS?8F#ks-Eaa/EB5)I$F^fK7ATD:!DKKH-F=q\'AD(fs=BleE2FY?F&Df0?)DJ+#B89Arm/PpJ+G^4?^:i^K!Bk;?=D..-r04Sm3Eb/f7FEhnJ0`V1RE\\[Up!.%%HFEDJC3\\N.,@<X>:Bln$2@Wca\'Eas$*FCf?3/n8g:07%2QFEq;8A99JDEc62J/So-BF>%K>Bl5S;FEDISFEhnJ/-#YMH:qpnFDu:^0/%?SG:mNBFD,f+F`V,7@rH7,ASuTB@rH3;>%(uRD)*du7T)ZD?VjWr=@kq[?VF$i<%i)sF*(u605,HLE%Z6WFF$r#FEDJC3\\N.,@<X>:Bln$2@Wca\'Eas$*FCf?3/n8g:061T3G\'RV:Ft[fTDg6OZCh[s405Y-3DD,sLDg5u-F\'i?nDf0i;Dfp+SBQS?8/p)>[E\\mar!.$M9FEDJC3\\N.-F`))B3Ai`S/n\\m?BQ[c:Bl>YDEc62J/TYEB@;odu05trMG\\L`1/p)>[H7pB`+<VdL+<VdL+<VdrBl%?\'A76TkF`1b4CiskCG%#;36#L4EE--,/BeFLPFP6a&g&X8!!WW3#.08-.D..[1E,961Bcs)S!.#)?DId<tFE1f(/p)>[g&ZCH,\'"M#!!(^]EbT#s/n8g;F)Pl+EWZ:A!87NrH#n!M!!!">%0-A.g\';SBF*)\\DAT@nR!!%$C!!!">"onW\'EYAEQ!-/GI!!%$Z!!!">$ig8-g&tu3BlnA=!!!#Q#B4^%G\\L`1g(/44G@,<0Dg6P7F(o`-F4pmfBjkXmDIIA8%WHQ2E,9)mFDkMqCis=C"ES:!ATAXg!!%$Y!!!">%KHJ/g\')P:Ch\\"F"DhdiA_I3"E7tG6DfTsR#%;IiASu&4$ZL-)G^3Y+Dfor>g&u>5AT$3&B%dE-Ec62Jg\')\\@Blmp,,ldoFEYJKR!-/\\P!!(^Y4Df"IF_kVQE_QN6!!*\'"!-:O/!!)Kj!<E5U!"[lc+PQl\'gAhQ7!"7T_+Q!/Eh#J5]!X&N4nHo7(&rS2h#P%p"!>Y,5!!jat#9qh($.\'#Je-&7n":TfJLIcteLf&guncAgm2;nN=KEpH9$h+-/&I7eN!"9I$-M/Ss!?1GU!"06d#P&\'a!>A0.J.M0:!WW6*cit;:B\\*G)d0:DS#1j\\Dd24I^/mm\'3@+50bgC,$O7+`"hLj4u.M0t[YdgmUP8D"IjQOT&df+91S&0mi9eds9d"P=(lO<f]FfG>KnHBENH,Hq31HIEZcYVNFKckeTs8;KTo"P=+rO%tO,QsuF^TFmhRTI-$ieI3qt#65>cn-&e$*:OF<%i\'U&i<9OD0:4QF"WsBlgCY9Y"kX(eNsCLHO9M!SOUTbG*Us43&fLEG!!XRt"Wu+q+8U$e!!!#;%NIkn"2m#"6p1b')))
+import requests
+from rich.console import Console
+import sys
+import os
+import time
+from rich.console import Console
+from pystyle import Colors, Colorate
+from time import sleep
+def Write_Print(text, color, interval):
+    for char in text:
+        console.print(char, style=color, end="")
+        time.sleep(interval)
+    print() 
+console = Console()
+def check_internet_connection():
+    try:
+        response = requests.get("https://www.google.com/", timeout=5)
+        return True
+    except requests.ConnectionError:
+        return False
+if not check_internet_connection():
+    print("\n\033[1;31mĐịnh Bug À ? Có Cái Con Cặc Em Nhé !")
+    sys.exit(1)
+def clear():
+    os.system("cls" if os.name == "nt" else "clear")
+clear()
+
+Write_Print(f"""          ⠀⠀⠀⠀⠀⠀⠀⠀                                                                             
+                         ,--.                                  ,--. 
+   ,---,               ,--.'|            ,---,               ,--.'| 
+  '  .' \          ,--,:  : |           '  .' \          ,--,:  : | 
+ /  ;    '.     ,`--.'`|  ' :          /  ;    '.     ,`--.'`|  ' : 
+:  :       \    |   :  :  | |         :  :       \    |   :  :  | | 
+:  |   /\   \   :   |   \ | :         :  |   /\   \   :   |   \ | : 
+|  :  ' ;.   :  |   : '  '; |         |  :  ' ;.   :  |   : '  '; | 
+|  |  ;/  \   \ '   ' ;.    ;         |  |  ;/  \   \ '   ' ;.    ; 
+'  :  | \  \ ,' |   | | \   |         '  :  | \  \ ,' |   | | \   | 
+|  |  '  '--'   '   : |  ; .'         |  |  '  '--'   '   : |  ; .' 
+|  :  :         |   | '`--'           |  :  :         |   | '`--'   
+|  | ,'         '   : |               |  | ,'         '   : |       
+`--''           ;   |.'               `--''           ;   |.'       
+                '---'                                 '---'         
+    ╔══════════════════════════════════════════════════════╗
+    ║     Proxy    | Develop by: AnAn                      ║
+    ╚══════════════════════════════════════════════════════╝                                                                    
+    \n""", "red", 0.0009)
+    
+proxies = []
+
+# Lấy Proxy Từ Các Api
+raw_proxy_sites = ["https://api.proxyscrape.com/?request=displayproxies&proxytype=http",
+                   "https://daudau.org/api/http.txt",
+                   "https://api.openproxylist.xyz/http.txt",
+                   "https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt",
+                   "http://worm.rip/http.txt",
+                   "https://proxy-spider.com/api/proxies.example.txt",
+                   "https://raw.githubusercontent.com/proxy4parsing/proxy-list/main/http.txt",
+                   "https://proxyspace.pro/http.txt",
+                   "https://raw.githubusercontent.com/jetkai/proxy-list/main/online-proxies/txt/proxies-https.txt",
+                   "https://raw.githubusercontent.com/jetkai/proxy-list/main/online-proxies/txt/proxies-http.txt",
+                   "https://raw.githubusercontent.com/MuRongPIG/Proxy-Master/main/http.txt",
+                   "https://raw.githubusercontent.com/officialputuid/KangProxy/KangProxy/http/http.txt",
+                   "https://raw.githubusercontent.com/officialputuid/KangProxy/KangProxy/https/https.txt",
+                   "https://raw.githubusercontent.com/roosterkid/openproxylist/main/HTTPS_RAW.txt",
+                   "https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt",
+                   "https://raw.githubusercontent.com/mmpx12/proxy-list/master/http.txt",
+                   "https://raw.githubusercontent.com/mmpx12/proxy-list/master/https.txt",
+                   "https://raw.githubusercontent.com/ShiftyTR/Proxy-List/master/http.txt",
+                   "https://raw.githubusercontent.com/ShiftyTR/Proxy-List/master/https.txt",
+                   "https://raw.githubusercontent.com/proxy4parsing/proxy-list/main/http.txt",
+                   "https://raw.githubusercontent.com/ErcinDedeoglu/proxies/main/proxies/http.txt",
+                   "https://raw.githubusercontent.com/ErcinDedeoglu/proxies/main/proxies/https.txt",
+                   "https://firet.io/firetx_retro/datacanthiet/proxies.txt",
+                   "https://raw.githubusercontent.com/proxy4parsing/proxy-list/main/http.txt",
+                   "https://raw.githubusercontent.com/almroot/proxylist/master/list.txt",
+                   "https://openproxylist.xyz/http.txt",
+                   "https://raw.githubusercontent.com/monosans/proxy-list/main/proxies_anonymous/http.txt",
+                   "http://rootjazz.com/proxies/proxies.txt",
+                   "https://api.proxyscrape.com/?request=displayproxies&proxytype=https",
+                   "https://www.proxy-list.download/api/v1/get?type=http",
+                   "https://raw.githubusercontent.com/TheSpeedX/SOCKS-List/master/http.txt",
+                   "https://api.openproxylist.xyz/http.txt",
+                   "https://raw.githubusercontent.com/shiftytr/proxy-list/master/proxy.txt",
+                   "https://raw.githubusercontent.com/jetkai/proxy-list/main/online-proxies/txt/proxies-http.txt",
+                   "https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt",
+                   "https://raw.githubusercontent.com/sunny9577/proxy-scraper/master/proxies.txt",
+                   "https://raw.githubusercontent.com/opsxcq/proxy-list/master/list.txt",
+                   "https://proxy-spider.com/api/proxies.example.txt",
+                   "https://multiproxy.org/txt_all/proxy.txt",
+                   "https://raw.githubusercontent.com/roosterkid/openproxylist/main/HTTPS_RAW.txt",
+                   "https://proxyspace.pro/https.txt",
+                   "https://raw.githubusercontent.com/almroot/proxylist/master/list.txt",
+                   "https://raw.githubusercontent.com/aslisk/proxyhttps/main/https.txt",
+                   "https://raw.githubusercontent.com/B4RC0DE-TM/proxy-list/main/HTTP.txt",
+                   "https://raw.githubusercontent.com/hendrikbgr/Free-Proxy-Repo/master/proxy_list.txt",
+                   "https://raw.githubusercontent.com/ALIILAPRO/Proxy/main/http.txt",
+                   "https://raw.githubusercontent.com/mmpx12/proxy-list/master/http.txt",
+                   "https://raw.githubusercontent.com/mmpx12/proxy-list/master/https.txt",
+                   "https://raw.githubusercontent.com/proxy4parsing/proxy-list/main/http.txt",
+                   "https://raw.githubusercontent.com/saisuiu/uiu/main/free.txt",
+                   "https://raw.githubusercontent.com/ShiftyTR/Proxy-List/master/https.txt",
+                   "https://raw.githubusercontent.com/rdavydov/proxy-list/main/proxies/http.txt",
+                   "https://raw.githubusercontent.com/ShiftyTR/Proxy-List/master/http.txt",
+                   "https://www.proxy-list.download/api/v1/get?type=https",
+                   "https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt",
+                   "https://raw.githubusercontent.com/saisuiu/Lionkings-Http-Proxys-Proxies/main/free.txt",
+                   "https://raw.githubusercontent.com/saisuiu/Lionkings-Http-Proxys-Proxies/main/cnfree.txt",
+                   "https://raw.githubusercontent.com/ErcinDedeoglu/proxies/main/proxies/http.txt",
+                   "https://raw.githubusercontent.com/ErcinDedeoglu/proxies/main/proxies/https.txt",
+                   "https://raw.githubusercontent.com/zevtyardt/proxy-list/main/http.txt",
+                   "https://raw.githubusercontent.com/roosterkid/openproxylist/main/HTTPS_RAW.txt",
+                   "https://raw.githubusercontent.com/Zaeem20/FREE_PROXIES_LIST/master/http.txt",
+                   "https://raw.githubusercontent.com/rdavydov/proxy-list/main/proxies_anonymous/http.txt",
+                   "https://raw.githubusercontent.com/rdavydov/proxy-list/main/proxies/http.txt",
+                   "https://sunny9577.github.io/proxy-scraper/proxies.txt",]
+print(Colorate.Diagonal(Colors.purple_to_blue,"             File da duoc luu vao Andeptrai.txt"))                 
+for site in raw_proxy_sites:
+    response = requests.get(site)
+    for line in response.text.split('\n'):
+        if ':' in line:
+            ip, port = line.split(':', maxsplit=2)[:2]
+            proxies.append(f'{ip}:{port}')
+    
+proxy_count = 500000
+
+with open('Andeptrai.txt', 'w') as f:
+    for proxy in proxies:
+        f.write(proxy + '\n') 

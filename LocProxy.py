@@ -1,1 +1,132 @@
-exec(__import__('marshal').loads(__import__('base64').a85decode(b'irB&Zzz!!iQ)z!:uug!!&>cA,p-@C]IW=A,p-AC]SAS=on^)A,p-@C]diCA,p-@C]moEA,p-@C^!uGA,p-BC^"Y[=p>!-A,p-@C]IW=A,p-CC^4e_=pP-/A,p-DC^Fqc=pf*S=pk?2A,p-@C^aJUA-R\\e=q(N5AIY[?z!!!$"A-[bf=q1T6AIba@z!!%\'Y!WZdBA-f4:z!!!$"!WZd7C*3KVzzzzA-o:;z!!!$"A.!ti=qLf9AJ&G\\WrW2#z!<?X=KE,0g!WZd;WrN,"z=qbEUKE,0b!WZd@WrN,"z!<<0$AJ/M`A.N2^Wri>%z!<<0$AHlZWWrW2#z!<<0$AIi;aWrW2#z!<<0$AHlZFWrW2#z!<<0$AJAYgWrW2#z=qtT`A/&f-!!%$@A//8_!WZdIAJJ_kWr`8$z2#perAJ])9zzzz!!\'&"z!!$aizzzz!!$OGWrW2#z=qq)=AK#+pWrW2#z=rUuQA-$3AWr`8$z!<<0$AJAYlWrW2#z=r[SDAIi;hAK.*=A/_!@WrW2#z!<<0$AIi;jWrW2#z!<<0$AIi;kWrW2#z!<<0$AIi;lWrW2#z!<<0$AHlZQWrW2#z!<?a4=rh/h6i^L<!!$1DAKGSNzzzz!!$OGWrW2#z=s.AsC-qt$zzzzAK\\#Sz!!!$"N$\\Z-A0-C(=s@K!KE,1#A0?O*=sRW%=sX4MAHHEhX<O\\Gz!!"kV=sdf-C/4g0zzzzAL(h%Wr`8$z!<?X2A-$3AWr`8$z!<<0$AIi;rAK70>A0d]J!WZdM!WZdIAK70>WrW2#zC/Fs2zzzzWrN,"zWrW2#zH3O?LWrW2#z!<<0$AIi;tWrW2#z!<<0$AJAZ%WrW2#z=t\'LQAItmBz!!!$"Gl],i0`Z7qG6.dF=TAI&!<A)3GQV(KG6&og0`Z7qG6.dF=TAI&!<A\'[GQV(KG6\'-?kl:\\`!)=sDg(I@uEb/Zi:iC8g7<iBRF`_PB.08-+F)5E!E%(hA#=EEIF)Pl+.0A3-6Z6dZEc]q?6Z6dZEaa\'$@fQK/zz!!E9%!!<3$!:sY"!!&>cF9)@Az!!$a8zzzz!!%*@zzC\'4M:zzzzA-$Ho!!%$EA-/e4z!!!$"GlV@WWrW2#z!<@BFW<>uM!cE,6"(Q.gg\'(u&ARTVY"53fpF4ph>H#n(=D;#,1@;TST!:p0j!!)j47VQ[M6Xak,@7Y<F02-:o:i^K!GqO&]EXVpJ!-/JJ!!!B,!!)U2!!!"L!8I\\]LIm%gP]E+7Oa!HDP(/:!eH@_-8(@`!EY8?P!+Q!/zz!!!-%!!!*$!!)V&!!!"c!!rXI!<<*"z!,;Q8zzzz!+Z+@!iuL)!WW3#!!!"I!-n\\l!-A2@z!!!"6"98E%zzz!!!!E!-//B!*K;I"a9rk"\'GVJ!@\\4JH5C7:FDu:^0/%NnG:mNHDeElt/n8g:0BiW?!!"GKg\';_6D.RX.FAt^Y"54$$AT;j(F*)KW"(u1eg(-PhDJj#qFD5Z27<3EeE[_%C#]aKtE,TW8ATIkP!!"-^\'*&"4g)4C6ARfL_Bl8$(Ec,H1?Xn"lDIm="Bl@m0)uos=%fcS0F#*dr!.Y(=!X&ZAg_1Wn4HVbQ+?@4le.Y9,#hTY$ptQ5jf*`hN$R>3B!<j4k%i"L8!<j57Esr$K!.l"*!1FQT"0V_Z"*HI$!!!?F>;82q0l=jjiOb"cBHTWaB->*B+?pu9_m:IQ_kCce6Z6ib6fGVc@j"3W+AQUfW?<AK!<<*"@fZQ0zz!!WE\'!!<3$!:u]\\!!&>cF9)@Az!!$O1A--9DX9>R+z!!!$"F9;LCz!!%BHWrW2#z6i^L=!!%EJF9MXEz!!$a<zzzz!!$O5WrW2#z!<@3BzzA-QQGA-8n9Wri>%z!<A\'+"9<NEzzA-].9z!!!$"GlT9!:3mBh>;82q2Jl-+@:X(iBA*>b.0A3*ASu&4"_MRnF(fS7!!!#Q!A8[.)d>$Y1H\'(m6uQsS+<`0:g\')G9Bl8%H"`e$hB4]d"FD5T\'EWc@B!%A!\'#BOHdDf0*,g&YQ%!WW3#+<Y\\<!!!#Q#Ae<eA8,poE[Unf!#Yb:!-:@)!!%NLg]Rr1$6>cpW)V:M1>E<OO>i2+L]Q9:%$(aP$BR!$%GV3uLguNeTG5r_-L_0=%NP*F!!N_V$6@Y"*c_kn!!)6c!!!"/!rr<$zz"onW\'!rr<$o7-f@!1*\\5!(6fm0)u!#"*=MCz!!!"6!rr<$zzz!!!"H"+1,[!NZ@\'!rr<$!!!!"!-AAEz!!!"6"onW\'zzz!!!"H!il>%z!!*(Y0a%Ju!rr<$z!36)"z!!*(F!%A"FEZY8]!%A!\'"`nd2Ch7W0!!!!J"PO)jDf0W7Ch7W3!!!">,ldoFEWc@B!%A\')"E\\4"FP6n.Des?4g\'DD1FCfK9@;OX#@q]:kEs)IC!$EC,+EA+q!!(^\\=)r"sARA8SBl8$50`V1R+TMKBF"mXp!.Y((&/9p\'g^"FO%>bOUA=t6I;MYe3#Vb$>%$(aP$BR6t#TW=;!"ft<"onf6Kh$.r!!!"/zzz"98E%!rr<$o3q\\"!1*\\-!<<*"z!,;Q8zzzz!-A2@z!!!"6"98E%zzz!!!"0!Ga(`!-/<T!il>%z!!*(F!+Z24!<<*"!!!!"!-nQb#ljr*EX`!K!-/YO!!%$P!!!">\'*&"4EXVpJ!-/JJ!!"AH!!%$R!!!">&c_n3FmoP7!"\'hk+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<V"6+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL/1iG++<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<W3e/M8.Q+<VdX/M/P*+<VdL+<VdL+<VdL+<VdX/M/S&HlsOS+<VdL+<VdL+=o)r/M&"e+<VdL+<VdL+<VdL+=o)r/gl#h$6UH=+<W9a+C$$3+<VdL+<VdL/1iG)3ZoP++FG:S+<VdL+<VdL+=A9S/ghcH+<VdL+<VdL+<W3e/M&q*+?CWm+:95E+<W`g+<VdS/g)8Z+<W4C/M/S&@!j(>-QkGm+<VdL+<VdL+>4i[4!5Xg+=Aca+<VdL/7:%]/gk%S+<W$S3Znbj+<W]f+<VdL+<Xo3+<VeS+<Vdf+<W]f+FG;Z+<VdL+<VdL+?CVf3ZoOf+<VdL>Tb.3+FG:S+?CVf3ZoPm+FG:=3ZoPm+<Vd[>Tb.3>Tb.33ZoOfHlsOS>TeD:3ZoOf+<VdL+<W]f+FG:S+>6tB+<Xo3+<W]f+<Z%S+<Xo3HltHm$@Es=3ZoOm+?M1u+<W]f+FG:S+?CVm+<W$n+FG:S+<VdL+<VeS+<W]f+=A9n/g)8Z3ZoPm+<Vdf+=A9S-T`Gu+:<K=+FG:S4"h^!>Tb.3>TbC:+<W$S4"_Wu+<W`g+<VdL+<VdLHlsPZ+<Wa!+<Xo3+<Xo3-QjNS-QkK\'+<VdL4!4kX+<W]f+FG;:+<Xo3/12Qf+<VeS+FG;:+<VeS+<VdL+<VdL+=A9S3ZoPm+C$$3>TbRF+FG:S+FG;Z+C$$3+FG:=HlsPZ+<W$S+=A`m-QjNS-QjNS3Zrem+?L\\u-QjNS+<VdL+<Z%S+FG:S-QjNZ/M/=m+<W$S+<W]fHlsOn+>,#a$@Es=3ZoP++<VdL+<VdL+FG:S+FG:Z?nErX+<VdL+<VdL+<VeS+<W]f+?CVf+<VdL+<VeS+<VeS+=CPK/LMY`+:<K=+FG:_-QjNS+<VdL+<W$S+<W]fHlsOS+<VdL+<VdL+<VdLHlsPZ+=nl_+<VdL+<VdL-QjNS3Zrem+<VdL+<V#!/M/=t+<VdL+<VdL+<Vdg+<VeS/ghba+<VdL+<VdL+<VdL+CHcQ-RU#Z+<VdL+<VdL+?L\\g+FGdh+<VdL+<Vd6+<VdL+<VdL+<VdL+<VdL-S6o%-QjNS+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<W$`/M/=m+<VdL+<VdL$6UH6+QAZNig#VbQ&t!jOQ)Oeig#VbQ&t!jOQ)Oeig#VbQ&t!jOQ)Oeig#VbQ&t!jOQ)Oeig#VbQ&t!jOQ)Oeig#VbQ&t!jOQ)Oeig#VbQ&t!jOQ)Oeig#VbQ&t!jOQ)Oeig#VbQ&t!jOQ)Oeig#VbQ&t!jOQ)Oeig#VbQ&t!jOQ)Oeig#VbQ&t!jOQ)Oeig#VbQ&t!jOQ)Oeig#VbQ&t!jQO4iX+<][/OWYbh+<X?r@j"TgDg6OM+<VeS+@KdaASc:(+C]UW+@0m2DBL&E+<VdL+<VdL+<VdL+<VfdQ&uCr+<VfdQ($]tOQ)Oeig#VbQ&t!jOQ)Oeig#VbQ&t!jOQ)Oeig#VbQ&t!jOQ)Oeig#VbQ&t!jOQ)Oeig#VbQ&t!jOQ)Oeig#VbQ&t!jOQ)Oeig#VbQ&t!jOQ)Oeig#VbQ&t!jOQ)Oeig#VbQ&t!jOQ)Oeig#VbQ&t!jOQ)Oeig#VbQ&t!jOQ)Oeig#VbQ&t!jOQ)Oeig#VbQ&t!jOQ)Oeig$&W+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<Vd6+<VdL$JGVlCis<%P08>G^O8g@klLhb!87GrF\\Mi9!#o,s4#8X/+@^\']AKXfiDg6OM6fGVSDBMX3]8^;KDJ3Hr+D#G4ATAo(AKYetGp$^5Ch4_tDId<tFE1f(/p)>[.68Rj>;82q1Mq.S!!!"F%7+lBAT2a3@;.?9G]_X?EnUO$H6=/20fq0GD\'2;^Ch4_cEc62J+A?KmANCqQ>;82q2f3[\\!!!!A)d>$Y1GN`GiOYk-+@G,!UEE(c]9@(m+<+N>4#8g4H5IbD>;82q0l9a-Dg6OM<,unpB-9ZXCh7``!!!!A)d>$Y1GN`6B]6Ro+@Bh[\\o]&6>;82q2f2N4DepO8>;82q0l989]!$2u`/rrhVfa+$>;82q2f27I]8^;C)d>$Y1GN`CEc62JFaa;j!$E4b0fq0MD*m3mYB1o*OQ!dKFW_W-0fq0GD*r!q\\tOBl)d>$Y1H0/MDf9G7)d>$Y1GN`?iOb(Z)d>$Y1H0/\'+<+N>4#8U.<cr+!9Z+/RB-8-t0fq0MD+eQ[Zu0M!)d>$Y1GN`GBQ(e^F<DN,0fq0MD,b(eD0:)GPlLda)d>$Y1H0.nidd9QJ<]&DPi@4Xidd9QJ<]&DPi@4Xidd9QJ<]&DPi@4Xidd9QJ<]&DPi@4Xidd9QJ<]&DPi@4Xidd9QJ<]&DPi@4Xidd9QJ<]&DPi@4Xidd9QJ<]&DPi@4Xidd9QJ<]&DPi@4Xidd9QJ<]&DPi@4Xidd9QJ<]&DPi@4Xidd9QJ<]&DP[a^ozz!!!0&!!!*$!!)W-!<<+d!+Z+X!1NtZ!b;=Z!1NtZ!b;A&!dt(U!-A5Az!!!"6!WW3#zzz!!!"0"+1,["KVd-!rr<$!!!"I!dk&a"98E%zzz!!!"0#&>Ue!-:e\\!bqi<zzzz!+Z=M-ia6g4F@3F"98E%zzz!!!"0#\\tgg!-9`>!bqi<zzzz!+ZCO-ia6g*de$("98E%zzz!!!"0$>V$i!-8Zu!bqi<zzzz!+ZIQ-ia6f/p%<uz!!!"H!36,#z!!*(A#ljr*z!-APJz!!!"0%\'\'F0z!,;rCzzzz!.4cW%=/!S!36,#z!!*(F%LE,W\'*&"4z!+ZUf!1Nt!&=ip(!<<*"!!!!"!-o/$!-A2@z!!!"6%KHJ/zzz!!!"6&-)\\1zzz!!!!E!-//B!*K;\\06[D@"\'GVJ!@\\XVH3\\,*FDs8o0.?tV"DDn!E7tJ/FEDJCH51+8FDs8o05,HLE+3O!/oPcC055BG(\'"=7.0A3.E,olABk;@+(B=F8l,Wi)!9qW+!!$a.!<<+6pAk6oC%_Q-!,;\'+!!(^R@<+:,!!$!k,6.]D+<+N>4#8g4>8pd$4#8U.ig>E=>;82q2f2hC)d>$Y1H0/n-NF,H+<+N>4#8U._j;Jb>;82q2f0ZV>;82q0l=gp+<+N>4#8U.6tp4%.11)4!!!">)#sX:g\'_tD@<?X5?Xn"bA_IZ*ATVKnFC/j&@psInDf483DfB9*g&l/6FkR"CEbTW,g\'VD9@qBV$Bl@m1g(7.nEHPi6F@CFaAT2a*Df0S?!!!!J"53otEc62JE]X7$!-0"Y!!%\'B!!!!A+<Y\\<!!!#Q$Y*j]@r#FjEc62JE_$01!)ijt!-91^!!%NLi"?op-(#Lq&0][>)ONCL-dWGLnHB"*#(T55$3p_Dg_1Wn4HVbQ+?.(Pcr*fl\'3\'bnfF&AE$Qmb(+.tF<$RVf#f.&u3.R(WmdOI],(tV>bd7IWj@:[eXAC,"/f4]QZBRK:L!\'pZS!qH<kB`UU\'n,NGZ!`/sm!!#Ok>QXEq!([/r!q60i?ijg>nc/Y\\!b2<$!!$X5DZ]Y5!+u@[!q?6jB**D]n,NH<!^["[!!$X563H!O)jj(D$mOI8&<mii;i=B%$m3k*+.re1A>\'@[$nKsD([qY0B*(C%oF:j)$IB2C\\4*ndcpDm%$?jo%GM!97q"+jm$l%;$*mk?:f*a7Z$SV&N!<iqc#Rp2)!<ir/EtSHQ!0\';e69YCd4rm!3"2c,[6QQ>>!<<*"zz#ljr*!rr<$o0NHX!1*\\5!,;N7zzzz!+Z,2!<<*"!!!"0!Z:t<!.=lY"+1-=!1a1>!d"MEz!!!"6"98E%zzz!!!"H!il>%z!.=rs")8#?zzzz!+Z4J-ia6f@XJ8m#ljr*zzz!!!#"z!!!"I"FL>_"W7:?!+Z:L-ia6f5\'./4z!!!"0#CHN@!+Z@_"CqfV!!!"g!+ZFa"CqlX!!!"g!+ZM/#HIk*z!!*(A%0-A.z!-A\\Nz!!!"0%BBO1z!,<)Gzzzz!.4cW%XJ*T!36,#z!!*(F!-ASKz!!!"0&$#^2z!!*(F!-nPn&5Lp[3cY9%!!%<]BQS?83\\N.#E%PL;BeEn6D(fXFDf.4K49,?]g\'2V?@<?X5g\';\\A@q0(kF)jJF!!%-T!!!!A)d>$Y1GNb+LmfG*>;82q2f77R@rHL-FE2Z\\!AE.0@qg%1FVb#X!$E4b0fq0GD;pA?+<+N>4#8X/9PJZ]E]sI\'!-1!u!!%=6+<+N>4#8g4>8pd$4#8U..iV\\I4#8g4>p((j0fq0GD+7rJCh7-"FDi:4ATVKnF<GC<@psInDf-\\0DfQt>Ec62J/h%+\\"`nX!BlnA4!!!">)#sX:E^0U)!87QjF)Pr:,6.]DE^Ba+!-1F,!!%%-!!!!J"`d*5!!(^[BlIEfA7T^lF*$%;F`M;=)ZTj<g&tqpFCB4o!!!!A+<VdLEYAEQ!-1@*!!%%*!!!"2!!!"?_#OH8J,n46(7,u&)jjRQ&L!ejd1IXS9%XOsTLtk>cjDIW6ei1gO*le3Qp]=5+Fm#@#7oDk)pnm0Qug[\\,1mDBO*uk5MgpNcfF&4O#`1a4=jd[)g^FeA\'LTZ)^c0V4A\'eb"ctROJA96+-FO5,Pcusa)!!%BI63?ZW!-\\H2!q60iFoau4n,NGV!au0"!!![A!qZHm%:]Ip$kSX:OAh\'3f*ibK$m2,GTOa`\'eI3th$k^i!A^q3$n-o@\',B=Cs!!$L0zz!!!!$!!!!$!!!#j)uos=QN2+.zzHiU2Jz!!%$?GlW*i.030m!HL^2!!"GKE^p*0!-8/@!!"-^\'*&"4g\'r"ADe!@"F\'im,Dg6PJ<WE+"F8u:@EtSHQ!.Y()#83+Ue-?lD#Rp2)!!jK`&c_n3E]a=%!%@s&$Z0<s?[$F/CLqO-FZ\'4"!$E4b0fq0GD8_ORUEFC3]8^;CG].J4+Ad)sG^1D`+N0D[UEFBmY]V(3_k:oj)d>$Y1H0/n1&q:S+<+N>4#8U.6c65QFQ\'g-F<G)P\\t^Ae>;82q2f0j^+<+N>4#8U.:i^K!Gp#dpG%GeD!!!!<>;82q0l8%#iOYe$+NC*m+N0D[UEFX:]<*2diObq(B-;;7DesP<!!!!A:2&UtV/@DeDKKH1+N0E$]7V5JBQ(e^F<G[DDepjPEYncV!88&qDf0\'-EcP`/F=q0JFEMV8F)h?_!!%$L!!!#Q"*8a/E[:\\c!-/2B!!(^]EbT#s/n8g;F)Pl+EWlFC!87ZsH#n(QCh7Vk!!!">#64`(g\'2S+DId[&EXVpJ!-0%Z!!%$a!!!#Q"D)glFE/c0!!%$o!!!">/-#YMg\')2.E-69V$?1$(G^3Y4BleB:63$ucg&u#%Ch;<\'Eb/ZiE_l`9!87NkAT$30E,olAH!b\'"F`);A6N@)dg&u5+F*-+:E7tJ:FE2)7g&l;7GhN@1E,]B+A9(3@!!%%*!!!"><WE+"g\'_e@D-qL*Ebf6,F4pn2G\\(B-FDl3R")VIcg\'Me2@:X1gDImnC#&J3jDfp/B&HDe2EY8?P!-/_Q!!(^Y4Df"IF_kVQEc(jW!!*\'"!-A&=!!)Kj!<E5U!"[lc1"u[7gAhT8!"7T_(>Ag"h#JST!$p;!%IsQ$!B&g9"b[-O"9ef@nI,C\'+k-`@f`VW.$:WGI7b@hPJ4#)_JOkSoKM1k="T]_8%KHM8L]N/9ncApp%.OZ)$PJ@HJ-YWH!<G(:!!S#\\f`2EL!##qLn0S,D&s,$D-PHM"nL+A<#(U-8#h]1]J7F6>f`22+@>"p>%2.#$B[[E)J-sp2%?M4N!u\';t*e5`n"UTu7OCQcD)OP\'f&J^WMOVs?%f+B4S&L*l)dh+!Y9%aglOD9t4J4oV?!!XD4"onl:cjVb["uUo5f`23&#VWCiW.!#T=3q.Re,WY)!!U^RACLTjf`23F!!!75!qZHm!Fl2a!!Vil!!cp6oDejl@KP3_"b:$7#hT@gJ-=U5\'7`C$$4DnBM\'nB1M_0HHfE;J897]`t"4[Mgn-&e!\'_2SB!>4lL$NXl@nf.]3%Ia])%haC#i<:$j9@X2"YXmCL%#7N-9TU9f$If2/pB(C"1%>GJ!=%0\\6GPCm-1Cm78-)\'Zn,NFl6iu$H$AgU$1QWo@51^/ed0h2J$RO7,-Lh0="Xs!F!s&Jn#QOl0ciu8T!&N:7%aY_?dg7aZ#2&tZKa.9;!WWEDcik?apML!3"u4I.0`#i-!!!#93[dHY"2u8o7g9(83X&"U#KI#P7h5h')))
+import requests
+from concurrent.futures import ThreadPoolExecutor
+import os
+import sys
+import time
+from time import sleep
+import requests
+from rich.console import Console
+from pystyle import Colors, Colorate
+import random
+def clear():
+    os.system("cls" if os.name == "nt" else "clear")
+clear()
+
+def check_internet_connection():
+    try:
+        response = requests.get("https://www.google.com/", timeout=5)
+        return True
+    except requests.ConnectionError:
+        return False
+if not check_internet_connection():
+    print("\n\033[1;31mĐịnh Bug À ? Có Cái Con Cặc Em Nhé !")
+    sys.exit(1)
+
+def loading(seconds):
+    print("\033[1;36mLoading", end="", flush=True)
+    for _ in range(seconds):
+        time.sleep(1)
+        print(".", end="", flush=True)
+    print("\033[1;36m Done !")
+# Sử dụng hàm loading trong 5 giây
+loading(3)
+def Write_Print(text, color, interval):
+    for char in text:
+        console.print(char, style=color, end="")
+        time.sleep(interval)
+    print() 
+console = Console()
+def clear():
+    os.system("cls" if os.name == "nt" else "clear")
+clear()
+Write_Print(f"""
+                                                                    
+                         ,--.                                  ,--. 
+   ,---,               ,--.'|            ,---,               ,--.'| 
+  '  .' \          ,--,:  : |           '  .' \          ,--,:  : | 
+ /  ;    '.     ,`--.'`|  ' :          /  ;    '.     ,`--.'`|  ' : 
+:  :       \    |   :  :  | |         :  :       \    |   :  :  | | 
+:  |   /\   \   :   |   \ | :         :  |   /\   \   :   |   \ | : 
+|  :  ' ;.   :  |   : '  '; |         |  :  ' ;.   :  |   : '  '; | 
+|  |  ;/  \   \ '   ' ;.    ;         |  |  ;/  \   \ '   ' ;.    ; 
+'  :  | \  \ ,' |   | | \   |         '  :  | \  \ ,' |   | | \   | 
+|  |  '  '--'   '   : |  ; .'         |  |  '  '--'   '   : |  ; .' 
+|  :  :         |   | '`--'           |  :  :         |   | '`--'   
+|  | ,'         '   : |               |  | ,'         '   : |       
+`--''           ;   |.'               `--''           ;   |.'       
+                '---'                                 '---'         
+    ╔══════════════════════════════════════════════════════╗
+    ║     Loc Proxy    | Develop by: AnAn                  ║
+    ╚══════════════════════════════════════════════════════╝                                                                    
+    \n""", "blue", 0.0009)
+sleep(2)
+print(" ")
+sleep(0)
+proxy_list = input("\033[1;32m File Proxy Cần Lọc(nhan enter de lay file andeptrai.txt): \033[1;33m")
+if proxy_list == "":
+  proxy_list = "Andeptrai.txt"
+with open(proxy_list, 'r') as file:
+    proxy_list = file.read().split("\n")
+    proxy_count = len(proxy_list)
+luu = input("\033[1;31m File Proxy Live: \033[1;37m")
+print(f" \033[1;31mTất Cả Gồm: \033[1;37m{proxy_count} \033[1;31mProxy Trong File")
+print(" \033[1;31mChờ Chút \033[1;37mTool \033[1;31mBắt Đầu \033[1;37mLọc \033[1;31mProxy")
+print(" \033[1;37mBắt Đầu \033[1;31mChạy \033[1;37mTool \033[1;31mLọc\033[1;37m. \033[1;31mVui Lòng \033[1;37mKhông \033[1;31mThoát \033[1;37mTermux")
+print("\033[1;37m ———————————————————————————————————————————————")
+sleep(3)
+list = []
+for p in proxy_list:
+    prx = p.strip("\n")
+    list.append(prx)
+
+
+def check_proxy(proxy):
+    proxies = {
+        'http': f'http://{proxy}',
+        'https': f'http://{proxy}'
+    }
+    
+    try:
+        response = requests.get('http://httpbin.org/ip', proxies=proxies, timeout=5)
+        if response.status_code == 200 or response.status_code == 202 or response.status_code == 504 or response.status_code == 503 or response.status_code == 502 or response.status_code == 500:
+            detect_location(proxy)
+            open(luu,'a').write(proxy+'\n')
+            return True
+    except requests.exceptions.RequestException:
+        pass
+
+    print(f" \033[1;37m[\033[1;31m★\033[1;37m] \033[1;37m{proxy} \033[1;31m× \033[1;37m \033[1;31m× \033[1;31mDie")
+    return False
+
+
+def detect_location(proxy):
+    ip_address = proxy.split(':')[0]
+    url = f"http://ip-api.com/json/{ip_address}"
+    response = requests.get(url)
+
+    if response.status_code == 200:
+        data = response.json()
+        if data["status"] == "success":
+            print(f" \033[1;37m[\033[1;31m★\033[1;37m] \033[1;37m{proxy} \033[1;31m√ \033[1;37m{data['country']}/{data['city']} \033[1;31m√ \033[1;32mLive")
+            open(luu,'a').write(proxy+'\n')
+        else:
+            print(" \033[1;37m[\033[1;31m+\033[1;37m] \033[1;31mFailed to detect location for proxy.")
+
+
+def process_proxy(proxy):
+    if check_proxy(proxy):
+        pass
+
+
+num_workers = 200
+
+with ThreadPoolExecutor(max_workers=num_workers) as executor:
+    executor.map(process_proxy, proxy_list)
+
+print(
+    f" \033[1;31mĐã lọc xong Proxy - đã lưu vào \033[1;37m{luu} \033[1;31mCó tất cả \033[1;37m%s \033[1;31mProxy Live"
+    % (len(open(f"{luu}").readlines()))
+)
+print("\033[1;31m Cảm ơn đã sử dụng tool")
+logout = input(" Nhấn enter để thoát tool")
+exit()
