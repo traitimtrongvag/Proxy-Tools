@@ -19,7 +19,6 @@ def check_internet_connection():
     except requests.ConnectionError:
         return False
 if not check_internet_connection():
-    print("\n\033[1;31mĐịnh Bug À ? Có Cái Con Cặc Em Nhé !")
     sys.exit(1)
 
 def loading(seconds):
